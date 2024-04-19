@@ -1,0 +1,20 @@
+.label {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #151313;
+}
+.description {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #848484;
+} 
+.btn-yellow{
+    background-color: #F2BD2A;
+} 
