@@ -22,6 +22,7 @@
                                 <select id="industry" class="form-select-border form-select">
                                     <option selected disabled>Select Industry</option>
                                     <option value="technology">Technology</option>
+                                    <option value="average">Average</option>
                                 </select>
                             </div>
                         </div>
