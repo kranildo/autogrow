@@ -1,91 +1,98 @@
-.label {
-  font-family: "Proxima Nova";
+/* Styling for labels */
+.label { 
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
   line-height: 22px;
   color: #151313;
 }
-.description {
-  font-family: "Proxima Nova";
+
+/* Styling for descriptions */
+.description { 
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 19px;
-
   color: #848484;
 }
 
+/* Styling for appointments description */
 .appointments-description {
-  margin-left: 1rem;
-  font-family: "Proxima Nova";
+  margin-left: 1rem; 
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
   line-height: 15px;
-
   color: #848484;
 }
-.calculator-description {
-  font-family: "Proxima Nova";
+
+/* Styling for calculator description */
+.calculator-description { 
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
   line-height: 29px;
-
   color: #151313;
 }
-.btn-product{
+
+/* Styling for product buttons */
+.btn-product {
     background-color: #F2BD2A;
 }
+
+/* Styling for form select border */
 .form-select-border {
   box-sizing: border-box;
   background: #ffffff;
   border: 2px solid #f2bd2a !important;
   border-radius: 10px;
 }  
+
+/* Styling for range input thumb */
 input[type="range"]::-webkit-slider-thumb {
   background-color: #f2bd2a !important;
 }
+
+/* Styling for range input progress */
 input[type="range"]::-webkit-slider-progress {
   background-color: #f2bd2a !important;
   height: 1em;
 }
+
+/* Styling for ROI description */
 .roi-description {
-  margin-left: 1rem;
-  font-family: "Proxima Nova";
+  margin-left: 1rem; 
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
   line-height: 15px;
-
   color: #848484;
 }
+
+/* Styling for cards */
 .card {
   background: #ffffff;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.07);
   border-radius: 7px;
 }
+
+/* Styling for year data */
 .year-data {
-  margin: 1rem;
-  font-family: "Proxima Nova";
+  margin: 1rem; 
   font-style: normal;
   font-weight: 700;
-  font-size: 32px;
+  font-size: 28px;
   line-height: 39px;
-  /* identical to box height */
   text-align: center;
-
   color: #f2bd2a;
 }
+
+/* Styling for approximate data */
 .approx-data {
-  margin: 1rem;
-  font-family: "Proxima Nova";
+  margin: 1rem; 
   font-style: normal;
   font-weight: 700;
-  font-size: 32px;
+  font-size: 26px;
   line-height: 39px;
-  /* identical to box height */
-
   color: #f2bd2a;
 }
