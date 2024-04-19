@@ -43,11 +43,11 @@
   background: #ffffff;
   border: 2px solid #f2bd2a !important;
   border-radius: 10px;
-} 
-input[type="range"]::-webkit-range-thumb {
+}  
+input[type="range"]::-webkit-slider-thumb {
   background-color: #f2bd2a !important;
 }
-input[type="range"]::-webkit-range-progress {
+input[type="range"]::-webkit-slider-progress {
   background-color: #f2bd2a !important;
   height: 1em;
 }
